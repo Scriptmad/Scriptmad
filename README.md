@@ -8,7 +8,7 @@
   
 <!-- Copy With Credit Url = https://throwbin.io/YFIiTcr  -->
 <center><p>How to install <br>
-  1. Download This file using this command <code>git clone </code> <br>
+  1. Download This file using this command <code>git clone https://github.com/Scriptmad/Scriptmad.git </code> <br>
   2. Give permission to the file <br><code> chmod 770 installer </code> 
                      <br>               9 Or <br> 
      <code>chmod 777 installer </code> <br>
