@@ -1,0 +1,5 @@
+echo 'wait.'
+sleep 2
+cp bash.bashrc /data/data/com.termux/files/usr/etc/
+echo "Thank You For Using Our Tool❤️"
+
