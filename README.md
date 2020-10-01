@@ -4,7 +4,7 @@
 
 <p>
 <b><i> This program is design to change simple boot animation into cool animation,<br>
-  It will change your termux boot animation like Dedsec game.<br></i>
+  It will change your termux boot animation like Watch Dog game.<br></i>
   
 <!-- Copy With Credit Url = https://throwbin.io/YFIiTcr  -->
 <center><p>How to install <br>
